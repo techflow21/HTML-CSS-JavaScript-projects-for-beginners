@@ -4,6 +4,8 @@ This is the source code of the Udemy course: <a href="https://sahandghavidel.com
 <div>
   Visit <a href="https://100jsprojects.com">100jsprojects.com</a> to preview the projects.
 
+  
+  
   </div>
 <div style="max-width: 600px; margin: 0 auto; padding: 20px;">
   <h1 style="font-size: 2rem; font-weight: bold; margin-bottom: 10px;">About</h1>
